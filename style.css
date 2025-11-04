@@ -1,0 +1,30 @@
+ #hero-section {
+  position: relative;
+  background: url('/images/Img.jpg') no-repeat center center/cover;
+    
+}
+
+
+ #hero-section .overlay{
+  
+  background-color:rgba(29, 43, 83, 0.89);
+  
+}
+  
+ .card{
+    background-color: #17b794;
+ }
+   .card-2{
+    height: calc(100% + 60px) !important;
+    transform: translateY(-30px);
+   }  
+   .card{
+    margin-top: -15px;
+  } 
+    .num-icon{
+      color: rgb(13, 212, 146);
+      
+    }
+    .card-icon{
+      background-color:#13a484;
+    }
